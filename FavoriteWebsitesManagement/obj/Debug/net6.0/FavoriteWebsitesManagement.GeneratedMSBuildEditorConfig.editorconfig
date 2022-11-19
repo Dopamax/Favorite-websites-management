@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FavoriteWebsitesManagement
+build_property.RootNamespace = FavoriteWebsitesManagement
+build_property.ProjectDir = F:\Mes projets\FavoriteWebsitesManagement\FavoriteWebsitesManagement\FavoriteWebsitesManagement\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Mes projets\FavoriteWebsitesManagement\FavoriteWebsitesManagement\FavoriteWebsitesManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Categories/Open.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xPcGVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Websites/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Websites/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Websites/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Websites/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Websites/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Mes projets/FavoriteWebsitesManagement/FavoriteWebsitesManagement/FavoriteWebsitesManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x0rk5ix8av

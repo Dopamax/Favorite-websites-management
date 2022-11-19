@@ -1,0 +1,34 @@
+﻿@model IEnumerable<FavoriteWebsitesManagement.Models.Website>
+@{
+    ViewData["Title"] = "Websites";
+   
+}
+
+<h1>Liste of websites</h1>
+
+<div>
+  
+    @if (((IEnumerable<Website>)ViewData["Websites"]).Count().Equals(0))
+    {
+        <h2 class="text-center">No data</h2>
+    }
+    else
+    {
+        <hr />
+        @foreach (var item in (IEnumerable<Website>)ViewData["Websites"])
+        {
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @item.name
+                </dt>
+                <dd class="col-sm-10">
+                    <a href="@item.link">@item.name</a>
+                </dd>
+
+            </dl>
+        }
+    }
+
+</div>
+
+
